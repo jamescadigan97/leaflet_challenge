@@ -5,3 +5,4 @@ In this project, I use Leaflet to map earthquake data from earthquake.usgs.gov. 
 * Leaflet JavaScript
 
 ## Screenshot 
+![ScreenShot](/screenshots/example.png)
