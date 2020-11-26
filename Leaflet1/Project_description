@@ -1,7 +1,0 @@
-
-Given Materials: A HTML file With only a <div> for the graph, two blank JavaScript files
-
-
-In this project created a base Leafet Map. Over it I added circles to the locations of earthquakes.
-I got the data from http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php.  I changed 
-radius based on depth and changed color based on magnitude.
